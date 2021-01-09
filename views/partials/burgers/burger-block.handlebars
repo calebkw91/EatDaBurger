@@ -1,12 +1,12 @@
 <li>
     <div class="card">
-        <div class="card=body">
+        <div class="card-body">
             {{burger_name}}
 
-            <button class="change-devoured" data-id="{{id}}" data-newdevoured="{{devoured}}">
+            <button class="change-devoured btn btn-secondary" data-id="{{id}}" data-newdevoured="{{devoured}}">
                 {{#if devoured}}Devour?{{else}}Another!{{/if}}
             </button>
-            <button class="delete-button" data-id="{{id}}">Delete</button>
+            <button class="delete-button btn btn-danger" data-id="{{id}}">Delete</button>
         </div>
     </div>
 </li>
