@@ -6,7 +6,7 @@ The webpage allows the user to make a list of burgers they would like to eat, an
 
 ## Screenshot
 
-![Image](public/img/home_screenshot.png "Homepage Screenshot")
+![Image](public/assets/img/home_screenshot.png "Homepage Screenshot")
 
 ## How to View
 
